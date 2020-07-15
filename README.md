@@ -1,7 +1,5 @@
 <h1 align="center">
     <img alt="React RocketShoes" src="https://github.com/LauraBeatris/github-explorer/blob/master/.github/logo.svg" />
-    <br>
-    React RocketShoes
 </h1>
 
 <h4 align="center">
@@ -14,10 +12,11 @@
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1563042321/readme_logos/rocketshoes_readme_swvhr9.png)
+![App Screenshot](https://i.ibb.co/nf3Bqzg/image.png)
+![App Screenshot](https://i.ibb.co/CJq3yvj/image.png)
 
 <p align="center">
-  <a href="https://rocketshoes.netlify.com/" target="_blank">
+  <a href="https://git-explorer-repository.netlify.app/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
   </a>
 </p>
@@ -27,7 +26,8 @@
 This project was developed with the following technologies:
 
 - [ReactJS](https://reactjs.org/)
-- [React Router](https://github.com/ReactTraining/react-router)
+- [TypeScript](https://reactjs.org/)
+- [React Router](https://www.typescriptlang.org/)
 - [styled-components](https://www.styled-components.com/)
 - [React-Icons](https://react-icons.netlify.com/)
 - [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
